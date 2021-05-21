@@ -1,9 +1,27 @@
 .logo {
   position: absolute;
   top: 30%;
-  left: 50%;
+  left: 40%;
 }
 .container {
+  color: blue;
   float: right;
   margin-right: 20px;
+}
+.sandb{
+  all:unset;
+  position:absolute;
+  top:40%;
+  left:40%;
+}
+
+input {
+  all: unset;
+  font: 16px system ui;
+  width: 50%;
+  height: 44px;
+}
+::placeholder {
+  color: blue;
+  opacity: 0.5;
 }
