@@ -185,3 +185,6 @@ border-radius:50px;
   margin: 0 10px;
   color:#444444;
 }
+.footer .footer-links ul li:hover{
+  text-decoration:underline;
+}
